@@ -36,3 +36,5 @@ if [ -e .gitignore ]
         echo "===== start create .gitignore ====="
         gitignore
 fi
+
+echo "packages installed successfully"
